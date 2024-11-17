@@ -1,4 +1,8 @@
-## Hi there 👋
+## 💫 About Me:
+Passionate Computer Science Engineering Student. Dedicated, diligent, effective at communicating, and very adaptive to work. Always eager to learn new skills and technologies.
+
+## 💻 Tech Stack:
+JavaScript React NodeJS TailwindCSS HTML5 CSS3 MySQL MongoDB Python
 
 <!--
 **sidakdhingra25/sidakdhingra25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
