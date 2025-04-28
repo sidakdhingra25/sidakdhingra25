@@ -1,20 +1,33 @@
-## 💫 About Me:
-Passionate Computer Science Engineering Student. Dedicated, diligent, effective at communicating, and very adaptive to work. Always eager to learn new skills and technologies.
+# Sidak Dhingra  
+**Software Engineer | Full-Stack Developer**  
 
-## 💻 Tech Stack:
-JavaScript React NodeJS TailwindCSS HTML5 CSS3 MySQL MongoDB Python
+📍 **Delhi, India**  
+📧 **sidakdhingra73@gmail.com**  
+🌐 **[Portfolio](https://sidakdhingra.in)**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/sidak-dhingra-9a9b54249/)** | **[GitHub](https://github.com/sidakdhingra25)**  
 
-<!--
-**sidakdhingra25/sidakdhingra25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+Passionate **Software Engineer** specialising in **full-stack development**, crafting scalable and efficient web solutions. Skilled in modern technologies, adaptive, and detail-oriented, with a relentless drive for learning and problem-solving.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills  
+**Frontend:** React.js | Next.js | HTML/CSS | Tailwind CSS  
+**Backend:** Node.js | Express | MongoDB | SQL  
+**Languages:** TypeScript | JavaScript | Python  
+**Tools:** Git | Vercel | Figma | AWS | Shadcn UI  
+
+---
+
+## 🏆 Certifications  
+- **AWS Certified Cloud Practitioner**  
+
+---
+
+📫 **Let’s connect!**  
+Open to collaborations and new opportunities. Reach out via [email](mailto:sidakdhingra73@gmail.com) or [LinkedIn](https://www.linkedin.com/in/sidak-dhingra-9a9b54249/).  
+
+
+*"Simplicity is the ultimate sophistication."*  
