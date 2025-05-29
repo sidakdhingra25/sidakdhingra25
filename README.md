@@ -1,5 +1,5 @@
 # Sidak Dhingra  
-**Software Engineer | Full-Stack Developer**  
+**Software Engineer | Full-Stack Developer | AWS Certified Cloud Practisioner**  
 
 📍 **Delhi, India**  
 📧 **sidakdhingra73@gmail.com**  
