@@ -4,7 +4,7 @@
 📍 **Delhi, India**  
 📧 **sidakdhingra73@gmail.com**  
 🌐 **[Portfolio](https://sidakdhingra.in)**  
-🔗 **[LinkedIn](https://www.linkedin.com/in/sidak-dhingra-9a9b54249/)** | **[GitHub](https://github.com/sidakdhingra25)**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/sidak-dhingra-9a9b54249/)** 
 
 ---
 
