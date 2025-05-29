@@ -17,7 +17,7 @@ Passionate **Software Engineer** specialising in **full-stack development**, cra
 **Frontend:** React.js | Next.js | HTML/CSS | Tailwind CSS  
 **Backend:** Node.js | Express | MongoDB | SQL  
 **Languages:** TypeScript | JavaScript | Python  
-**Tools:** Git | Vercel | Figma | AWS | Shadcn UI  
+**Tools:** Git | Vercel | Figma | AWS | Shadcn UI | Postman 
 
 ---
 
